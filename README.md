@@ -15,8 +15,8 @@ Things you may want to cover:
 
 * Database initialization
 
-* How to run the test suite
-  Access the app at https://shielded-fortress-95119.herokuapp.com/
+* How to run the test suite <br>
+Access the app at https://shielded-fortress-95119.herokuapp.com/
   
 * Services (job queues, cache servers, search engines, etc.)
 
